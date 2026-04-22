@@ -1,0 +1,7 @@
+{
+  "best_test_miou": 0.5216687914137911,
+  "best_test_mdice_at_best_miou": 0.5785210021954672,
+  "final_test_miou": 0.5215316493425671,
+  "final_test_mdice": 0.5783594721998214,
+  "epochs": 30
+}

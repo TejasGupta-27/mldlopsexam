@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Large training artefacts / data dumps (inside Question2/)
+Question2/data/
+Question2/runs/
+Question2/train.log
+Question2/streamlit.log
+Question2/nohup.out
+
+# Local OS noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
